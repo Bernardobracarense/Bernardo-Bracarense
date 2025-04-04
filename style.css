@@ -1,0 +1,94 @@
+table{
+    
+    width: 100%;
+    height: 98vh;
+     
+}
+td{
+    padding: 10px;
+    
+    vertical-align: middle;
+    
+}
+
+.um{
+    width: 33px;
+    height: 10vh;
+    
+}
+.pr{
+width: 41px; ;
+}
+.e{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.O{
+    width: 250px;
+    text-align: center; 
+}
+.i{
+    height: 10vh;
+    
+}
+textarea{
+    width: 80%;
+    max-width: 584px; 
+    height: 35px; 
+    padding: 0 20px;
+    border: 1px solid #060607;
+    border-radius: 24px; 
+    font-size: 16px;
+    outline: none;
+    box-shadow: 0 1px 6px rgba(32, 33, 36, 0.08);
+    transition: all 0.3s ease-in-out;
+    resize: none; 
+    overflow: hidden; 
+    line-height: 44px; 
+}
+.segundalinha{
+    height: 28px;
+    width: 150px;
+    margin: 0 auto;
+    
+
+}
+svg{
+    width: 48px;
+}
+
+.container-image{
+    width: 100%;
+    
+}
+
+#linha1{
+    height: 8vh;
+}
+.imagemicone{
+    
+    width: 48px;
+    height: 48px;
+}
+.div{
+    margin: 0 auto;
+}
+.t{
+    
+    text-align: center;
+    border: 1px solid #060607; 
+}
+.placa{
+    width: 100%;
+}
+.linha1{
+    background-color:#0060b1 ;
+}
+.segundalinha
+{
+    background-color: rgb(163, 161, 161);
+}
+.w{
+    text-align: center;
+}
